@@ -1,0 +1,2 @@
+velveth makes the graph.
+./velveth directory 21 (kmer size) -
